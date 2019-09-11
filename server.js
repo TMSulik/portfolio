@@ -18,10 +18,3 @@ app.listen(PORT, function() {
   console.log("CORS-enabled web server listening on port " + PORT);
 });
 
-
-
-// Change things like: `https://cors-anywhere.herokuapp.com/https://my-api.com`
-// * To: `/api/https://my-api.com`
-
-// There is nothing like that here. Is there something like that somewhere else?
-// 'Like' that in what way?
