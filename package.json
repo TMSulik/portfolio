@@ -17,10 +17,6 @@
     "postinstall": "npm run build",
     "start": "NODE_ENV=production node server.js"
   },
-  // "scripts": {
-  //   "test": "echo \"Error: no test specified\" && exit 1",
-  //   "start": "node server.js"
-  // },
   "engines": {
     "node": "10.15.1",
     "yarn": "1.16.0"
