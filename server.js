@@ -23,5 +23,5 @@ app.listen(PORT, function() {
 // Change things like: `https://cors-anywhere.herokuapp.com/https://my-api.com`
 // * To: `/api/https://my-api.com`
 
-// There is nothing like that here. Is there something like that somehwere else?
+// There is nothing like that here. Is there something like that somewhere else?
 // 'Like' that in what way?
