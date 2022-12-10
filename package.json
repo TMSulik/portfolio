@@ -4,7 +4,7 @@
   "description": "'professional portfolio'",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "json": "^9.0.6",
     "node": "^12.4.0",
     "package.json": "^2.0.1",
